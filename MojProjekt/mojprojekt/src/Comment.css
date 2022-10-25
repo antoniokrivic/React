@@ -1,0 +1,30 @@
+.comment-section {
+    padding: 20px 50px;
+}
+
+#comment {
+    color: green;
+    font-size: 50px;
+}
+
+#comment ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url('humanhead.jpg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
